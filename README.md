@@ -1,5 +1,5 @@
 # test
 *試験範囲*
-*JavaScript
-*Git
-
+1.JavaScript
+2.Git
+3.ドメインとサーバー
